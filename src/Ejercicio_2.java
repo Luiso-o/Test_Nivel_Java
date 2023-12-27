@@ -1,8 +1,12 @@
-public class CaracteresRepetidos {
+/*
+Crea una cadena de texto, luego crea un metodo que reciba la cadena antes creada
+y devuelva el número de cada caracter que contenga.
+* */
+public class Ejercicio_2 {
 
     //numeros de caracteres repetidos
     public static void main(String[] args) {
-        CaracteresRepetidos caracteresRepetidos = new CaracteresRepetidos();
+        Ejercicio_2 caracteresRepetidos = new Ejercicio_2();
         caracteresRepetidos.repeatCharacter("En este texto quiero saber cuantos caracteres repetidos existen");
     }
 

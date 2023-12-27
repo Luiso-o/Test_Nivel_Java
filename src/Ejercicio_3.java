@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 //crea un algoritmo para generar la secuencia de Collatz
-public class Collatz {
+public class Ejercicio_3 {
 
     public static void main(String[] args) {
 

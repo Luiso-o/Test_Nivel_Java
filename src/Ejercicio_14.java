@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class ReservaAsientos {
+/*Crea la lógica para gestionar los libres de un cinema*/
+
+public class Ejercicio_14 {
 
     public static void main(String[] args) {
         //Variables

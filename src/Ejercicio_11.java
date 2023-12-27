@@ -1,10 +1,12 @@
 import java.util.Arrays;
 
-public class HayUnaBocal {
+/*Crea la lógica que determine si una cadena de texto tiene vocales*/
+
+public class Ejercicio_11 {
 
     public static void main(String[] args) {
 
-        HayUnaBocal hayUnaBocal = new HayUnaBocal();
+        Ejercicio_11 hayUnaBocal = new Ejercicio_11();
 
         hayUnaBocal.checkIfVowelIsPresent("En este texto hay vocales?");
         hayUnaBocal.checkIfVowelIsPresent2("kjhfg");

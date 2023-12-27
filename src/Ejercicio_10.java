@@ -1,8 +1,8 @@
 //comprobar si un numero es par o impar
-public class EsPar {
+public class Ejercicio_10 {
 
     public static void main(String[] args) {
-        EsPar esPar = new EsPar();
+        Ejercicio_10 esPar = new Ejercicio_10();
 
         esPar.isPair(8);
         esPar.isPair(5);
