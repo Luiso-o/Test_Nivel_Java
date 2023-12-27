@@ -1,7 +1,9 @@
-public class EsPalindromo {
+/*Crea la lógica para determinar si una palabra es palindromo o no*/
+
+public class Ejercicio_9 {
 
     public static void main(String[] args) {
-        EsPalindromo esPalindromo = new EsPalindromo();
+        Ejercicio_9 esPalindromo = new Ejercicio_9();
 
         System.out.println(esPalindromo.isPalindrom("oro"));
         System.out.println(esPalindromo.isPalindrom("aro"));

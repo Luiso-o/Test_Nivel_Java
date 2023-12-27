@@ -5,14 +5,13 @@ import java.util.ArrayList;
 
 /*
  Escribe conRandomAccesible un fichero con los siguientes datos de 5 productos:
-
 * id(int)
 * nombre (String, 10 Caracteres)
 * precio (double)
 * descuento (boolean)
 * tipo (char)
 */
-public class EscribirFichero {
+public class Ejercicio_7 {
     public static void main(String[] args) {
 
         ArrayList<Producto> productos = new ArrayList<>();

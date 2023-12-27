@@ -1,8 +1,10 @@
-public class EsCapicua {
+/*Crea un metodo que determine si el numero recibido es capicua */
+
+public class Ejercicio_6 {
 
     public static void main(String[] args) {
 
-        EsCapicua esCapicua = new EsCapicua();
+        Ejercicio_6 esCapicua = new Ejercicio_6();
 
         esCapicua.isCapicua(121);
         esCapicua.isCapicua2(143);

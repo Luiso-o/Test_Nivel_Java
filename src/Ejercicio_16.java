@@ -19,7 +19,7 @@ Especificaciones
 
 import java.util.Arrays;
 
-public class VerificarNumero {
+public class Ejercicio_16 {
 
     public static void main(String[] args) {
         int[] ints = {-9, 14, 37, 102};

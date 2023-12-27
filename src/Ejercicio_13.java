@@ -1,9 +1,11 @@
-public class OperadorIncremento {
+/*Supongamos que b tiene el valor 5 y c el valor 8
+en la siguiente expresión: "a = b++ + ++c;".
+¿Cuál es el valor de a, b y c después de la ejecución de esta línea de código?*/
+
+public class Ejercicio_13 {
 
     public static void main(String[] args) {
 
-    /*Supongamos que b tiene el valor 5 y c el valor 8 en la siguiente expresión: "a = b++ + ++c;".
-    ¿Cuál es el valor de a, b y c después de la ejecución de esta línea de código?*/
         int b = 5;
         int c = 8;
 

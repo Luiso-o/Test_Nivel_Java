@@ -1,9 +1,11 @@
 import java.time.LocalDate;
 
-public class EsBisiesto {
+/*Crea un metodo que reciba un anyo y imprima en pantalla si el anyo es bisiesto o no*/
+
+public class Ejercicio_5 {
 
     public static void main(String[] args) {
-        EsBisiesto esBisiesto = new EsBisiesto();
+        Ejercicio_5 esBisiesto = new Ejercicio_5();
 
         esBisiesto.isLeapYear(1991);
         esBisiesto.isLeapYear(1992);
@@ -11,6 +13,6 @@ public class EsBisiesto {
 
     private void isLeapYear(int year){
         boolean esBisiesto = LocalDate.of(year, 1, 1).isLeapYear();
-        System.out.println(esBisiesto ? "Es viciesto" : "No es viciesto");
+        System.out.println(esBisiesto ? "Es bisiesto" : "No es bisiesto");
     }
 }

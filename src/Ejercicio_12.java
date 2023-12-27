@@ -1,9 +1,9 @@
-public class InvertirCadena {
+//invierte las letras de una cadena de texto
 
-    //invirtiendo las letras de una cadena de texto
+public class Ejercicio_12 {
     public static void main(String[] args) {
 
-    InvertirCadena invertirCadena = new InvertirCadena();
+    Ejercicio_12 invertirCadena = new Ejercicio_12();
 
     invertirCadena.invertirTexto("Esta cadena se va a invertir");
     invertirCadena.invertirCadenaConBuilder("Esta también es una cadena invertida");

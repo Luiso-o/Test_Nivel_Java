@@ -21,7 +21,7 @@ Y mostrado con un salto de línea por cada elemento quedaría:
 
 import java.util.Arrays;
 
-public class Algorithm {
+public class Ejercicio_1 {
     public static void main(String[] args) {
         buildPanel("This is a panel!");
     }
